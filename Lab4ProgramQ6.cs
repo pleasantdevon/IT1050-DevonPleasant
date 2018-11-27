@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lab4_Q6
+namespace Lab4_Q6DevonPleasant
 {
     class Program
     {
